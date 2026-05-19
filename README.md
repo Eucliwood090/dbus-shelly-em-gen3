@@ -1,4 +1,4 @@
-# dbus-shelly-3em-smartmeter
+# dbus-Shelly EM Gen3
 Integrate Shelly EM Gen3 + Pince 50A smart meter into [Victron Energies Venus OS](https://github.com/victronenergy/venus)
 
 ## Purpose
@@ -16,7 +16,7 @@ This project is my first on GitHub and with the Victron Venus OS, so I took some
 
 ## How it works
 ### My setup
-- Shelly 3EM with latest firmware (20220209-094824/v1.11.8-g8c7bb8d)
+- Shelly Shelly EM Gen3 + Pince 50A  with latest firmware (20220209-094824/v1.11.8-g8c7bb8d)
   - 3-Phase installation (normal for Germany)
   - Connected to Wifi network "A"
   - IP 192.168.2.13/24  
